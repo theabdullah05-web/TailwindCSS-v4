@@ -1,4 +1,4 @@
 @import "tailwindcss";
 theme {
-  doomsday-green: oklch(38.307% 0.057 170.971);
+  --color-doomsday-green: oklch(38.307% 0.057 170.971);
 }
