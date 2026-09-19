@@ -3,6 +3,6 @@
   --color-doomsday-green: oklch(38.307% 0.057 170.971);
 }
 
-@utilitiy grid-columns-autofit {
+@utilitiy grid-cols-autofit {
   grid-template-columns: repeat(auto-fit, minmax(13.75rem, 1fr));
 }
